@@ -1,0 +1,5 @@
+ResourceGroupName,Name,ImageName,OpenPorts,PublicIpAddressName,Environment
+"rg-ps1-01","vm-ps-0101","UbuntuLTS","22,80","vm-ps-0101-pub","dev"
+"rg-ps1-01","vm-ps-0102","UbuntuLTS","22,80","vm-ps-0102-pub","dev"
+"rg-ps1-02","vm-ps-0201","UbuntuLTS","80","vm-ps-0201-pub","prod"
+"rg-ps1-02","vm-ps-0202","UbuntuLTS","80","vm-ps-0202-pub","prod"
